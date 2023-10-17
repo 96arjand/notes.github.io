@@ -14,3 +14,6 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 import geopandas as gpd
 gdf = gpd.GeoDataFrame(crs="epsg:4326")
 ```
+
+## Display Image
+![de:hub.de-Projekt](de_hub.jpg)
