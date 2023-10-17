@@ -9,7 +9,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 
 ## Display code
-[Docs Here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)\
+[Docs Here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 ```python
 import geopandas as gpd
 gdf = gpd.GeoDataFrame(crs="epsg:4326")
